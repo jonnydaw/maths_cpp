@@ -1,0 +1,43 @@
+# Object files
+*.o
+*.obj
+
+# Compiled binary executables
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# Build directories
+/build/
+/bin/
+/debug/
+/release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Code::Blocks
+*.depend
+*.layout
+*.cbp
+*.layout
+
+# Qt Creator
+*.pro.user
+*.qbs.user
+*.autosave
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Visual Studio Code
+.vscode/
+
+# Others
+*.log
